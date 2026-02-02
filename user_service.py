@@ -2,6 +2,7 @@
 User Service Module
 Provides discount calculations based on user age and country
 """
+# initial version of discount calculation logic
 
 class UserService:
     # Country-based discount rates (in percentage)
